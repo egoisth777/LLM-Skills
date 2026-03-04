@@ -25,15 +25,17 @@ The skill follows this workflow:
 ## Usage
 
 1. Navigate to your resume folder (where your resume templates are stored)
-2. Open a job description or relevant document in your editor
-3. Invoke the skill:
 
+2. Open a job description or relevant document in your editor
+
+3. Invoke the skill:
+   
    ```bash
    /cover-letter
    ```
 
 4. Answer the prompts for:
-
+   
    - Company/folder name
    - Job ID or position identifier
    - Key points to emphasize for this specific role
